@@ -1,4 +1,4 @@
-# Hi, I’m Doniel 👋
+# Hi, I am Doniel 
 
 MSc in Artificial Intelligence  
 Specialising in Computer Vision, Machine/Deep Learning to Healthcare & Business Insights

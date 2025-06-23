@@ -45,7 +45,7 @@ Data + Compassion = Real Impact.
 
 [💼 LinkedIn](https://www.linkedin.com/in/donielamosu)  
 [🐦 Twitter](https://twitter.com/amdoniel)  
-[🌐 Portfolio Website](#) *(optional)*  
+[🌐 Portfolio Website](#) 
 [📧 Email](mailto:your@email.com)
 
 ---

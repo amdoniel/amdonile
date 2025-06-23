@@ -1,4 +1,4 @@
-# Hi, I am [Doniel]
+# Hi, I am Doniel
 
 MSc in Artificial Intelligence 🎓
 Passionate about using AI for Healthcare + Retail  
